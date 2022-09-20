@@ -280,3 +280,6 @@ fabric.properties
 # .pnp.*
 
 # End of https://www.toptal.com/developers/gitignore/api/webstorm+all,macos,node,yarn
+
+# Custom ignore:
+result.csv
